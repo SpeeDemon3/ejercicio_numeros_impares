@@ -3,7 +3,7 @@ numero_final: int = 10
 numeros_impares: [int] = []
 
 while numero_final <= numero_inicial:
-    numero_final: int = int(input('El segundo número debe ser mayor que el primero. Inroduce otro número: '))
+    numero_final: int = int
 
 
 for i in range(numero_inicial, numero_final+1):
